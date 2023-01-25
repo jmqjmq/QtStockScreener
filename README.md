@@ -1,0 +1,2 @@
+# QtStockScreener
+Graphical stock screener
